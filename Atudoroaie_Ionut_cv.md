@@ -4,9 +4,9 @@ title: "Ionut Atudoroaie"
 
 <img  align="right"  width="170"  height="170"  src="https://ingsolar.cl/wp-content/uploads/2020/02/img_avatar-png.png">
 
->🕻 726382713 \
->🖂 ionut.atudor@gmail.com \
->⌂ C/ Sta. Maria, Nº 93 \
+>🕻 726382713
+>🖂 ionut.atudor@gmail.com
+>⌂ C/ Sta. Maria, Nº 93
 
 <a href="https://github.com/iatudor"><img  align="left"  width="60"  height="60" src="https://pngimg.com/uploads/github/github_PNG40.png"> iatudor</a>
 
