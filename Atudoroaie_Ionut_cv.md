@@ -1,4 +1,6 @@
-﻿## Ionut Atudoroaie
+---
+title: "Ionut Atudoroaie CV"
+---
 
 <img  align="right"  width="170"  height="170"  src="https://ingsolar.cl/wp-content/uploads/2020/02/img_avatar-png.png">
 
